@@ -1,0 +1,3 @@
+var BattleOrderOne = BattleBase.extend({
+
+});
